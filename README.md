@@ -9,6 +9,7 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-F05032?style=flat-square&logo=go&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-356D9A?style=flat-square&logo=python&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="LaTex" src="https://img.shields.io/badge/-LaTex-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
