@@ -14,7 +14,7 @@
 
 ---
 
-<script src="https://tryhackme.com/badge/2074672"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/TMike21.png" alt="TryHackMe">
 
 ---
 
