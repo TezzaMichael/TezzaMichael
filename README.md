@@ -14,6 +14,9 @@
 
 ---
 
+<script src="https://tryhackme.com/badge/2074672"></script>
+
+---
 
 #### 📫 How to reach me: 
 - [<img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin%3A%20michael--tezza-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />][linkedin]
